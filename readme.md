@@ -14,5 +14,5 @@
     Criar uma branch/ramificação
 # git checkout <name-with-branch>
     Entrar na branch inserida
+Mesclar branch atual com a branch inserida para "clonar"
 # git merge <name-with-branch-to-merge>
-    Mesclar branch atual com a branch inserida para "clonar"
