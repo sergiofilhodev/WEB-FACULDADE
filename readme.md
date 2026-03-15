@@ -15,7 +15,7 @@
     or
     git branch <name-with-branch>
 # Deletar branch
-    git checkout -d <name-brach>
+    git branch -d <name-with-branch>
 # Entrar na branch inserida
     git checkout <name-with-branch>
 # Mesclar branch atual com a branch inserida para "clonar"
